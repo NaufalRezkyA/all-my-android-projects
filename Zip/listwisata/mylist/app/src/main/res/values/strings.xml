@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ListView Sederhana</string>
+    <string name="name_places">nama daerah</string>
+    <string name="lorem">lorem ipsum</string>
+
+
+    <string-array name="data_name">
+        <item>Pantai Sumurtiga</item>
+        <item>Danau Toba</item>
+        <item>Ngarai Sianok</item>
+        <item>Sungai Kampar</item>
+        <item>Anambas</item>
+        <item>Candi Muaro Jambi </item>
+        <item>Fort Marlborough</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Pantai Sumurtiga yang terletak di Kota Sabang, Provinsi DI Aceh. Pantai berpasir putih ini memiliki garis pantai yang panjang dengan air lautnya yang berwarna biru muda, lengkap dengan pepohonan kelapa yang tersebar di sepanjang bibir pantai.</item>
+        <item>Danau Toba sendiri merupakan sebuah danau raksasa yang terbentuk akibat dari aktivitas gunung berapi. Danau ini memiliki panjang 100 km dan lebar 30 km dan disebut-sebut sebagai danau vulkanik terindah yang dimiliki Indonesia.</item>
+        <item>Ngarai Sianok merupakan sebuah lembah sempit dengan bukit-bukit bertebing curam di sekelilingnya. Di tengah lembah ini mengalirlah sungai kecil yang membuat pemandangan semakin menakjubkan.</item>
+        <item>Terkenal dengan ombak Bono-nya yang bisa mencapai tinggi 6 meter, sungai yang terletak di Teluk Meranti, Kabupaten Palalawan, Riau, ini merupakan destinasi yang cocok untuk memuaskan hasrat berselancar Anda.</item>
+        <item>Laut biru dengan pasir putihnya yang lembut serta terumbu karang yang cantik dijamin akan menyihir siapa saja yang berkunjung ke sini.</item>
+        <item>Tempat wisata bersejarah ini merupakan perpaduan peninggalan Kerajaan Sriwijaya dan Kerajaan Melayu dan diperkirakan sudah ada sejak abad 11 Masehi.</item>
+        <item>Bangunan ini merupakan benteng peninggalan Inggris dan dibangun oleh EIC (East India Company) pada tahun 1713. Tujuan awal pembangunan benteng ini adalah sebagai titik pertahanan Inggris dari serangan musuh. </item>
+    </string-array>
+
+
+    <string-array name="image">
+        <item>@drawable/pantaisumurtigaaceh</item>
+        <item>@drawable/danautoba</item>
+        <item>@drawable/ngaraisianok</item>
+        <item>@drawable/sungaikampar</item>
+        <item>@drawable/anambas</item>
+        <item>@drawable/candimuarojambi</item>
+        <item>@drawable/fortmarlborough</item>
+    </string-array>
+
+</resources>
